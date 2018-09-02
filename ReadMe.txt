@@ -1,1 +1,1 @@
-Computational analysis on the gene expression data from the cancer genome atlas database.
+Computational analysis on the gene expression data from the cancer genome atlas database for various types of cancer.
